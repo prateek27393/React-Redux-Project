@@ -1,0 +1,18 @@
+$primary: #006699;
+
+h2 {
+	color: $primary;
+}
+
+.container{
+	display: flex;
+	justify-content: left;
+}
+
+.userList{
+	padding-left: 30px;
+}
+
+.userDetail{
+	padding-left: 200px;
+}
