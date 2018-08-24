@@ -9,7 +9,7 @@ const App = () => (
         <div className='userList'><h1>UserName List : </h1><UserList /></div>
         
         
-        <div className='userDetail'><h1>User Details : </h1><UserDetail /></div>
+        <div className='userDetails'><h1>User Details : </h1><UserDetail /></div>
         
     </div>
 );
